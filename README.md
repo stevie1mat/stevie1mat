@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Steven Mathew! 👋</h1>
 <p align="center">
-  <strong>Full Stack Dev | AI Dev</strong>
-  <br>
-  Chief Technology Officer at 7 Steps AI, Toronto
+  <strong>Passionate Full Stack Dev | AI Dev</strong>
 </p>
 
 <br>
