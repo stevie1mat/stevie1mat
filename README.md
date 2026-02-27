@@ -73,14 +73,7 @@
 
 ### My GitHub Stats
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=stevie1mat&show_icons=true&theme=radical" 
-    alt="stevie1mat's GitHub Stats"
-  >
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevie1mat&layout=compact&theme=radical" 
-    alt="stevie1mat's Top Languages"
-  >
+  <img src="https://streak-stats.demolab.com?user=stevie1mat&theme=radical" />
 </p>
 
 <br>
