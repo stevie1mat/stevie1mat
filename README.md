@@ -6,12 +6,61 @@
 <br>
 
 ### About Me
-* 🔭 I’m currently working on **[Aether Chronicles: AI Text RPG](https://github.com/stevie1mat/joel-ai)**, **[Fixit AI Agent](https://github.com/stevie1mat/Fixit-AI-Agent/tree/main)**, and **[Hive Manager](https://github.com/stevie1mat/HiveManager)**.
-* 🌱 I’m currently learning **Rust**.
+I’m a passionate Full Stack and AI Developer currently learning **Rust** while pushing boundaries in web and mobile applications.
 * 💬 Ask me about **Full Stack Development, AI, Python, React, etc.**
 * 📫 How to reach me: **info@stevenmathew.dev**
 
 <br>
+
+### Currently Featured Projects
+
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/stevie1mat/joel-ai">
+        <img src="https://raw.githubusercontent.com/stevie1mat/joel-ai/main/screenshots/git-screenshot.png" alt="Aether Chronicles" width="100%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/stevie1mat/joel-ai">Aether Chronicles: AI Text RPG</a></strong><br>
+      An infinite graphical RPG powered by Mistral AI and Bytez.
+    </td>
+    <!-- Project 2 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">
+        <img src="https://github.com/stevie1mat/Fixit-AI-Agent/raw/main/public/homepage.png" alt="Fixit AI Agent" width="100%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">Fixit AI Agent</a></strong><br>
+      Autonomous AI agent for fixing codebase issues.
+    </td>
+    <!-- Project 3 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/stevie1mat/HiveManager">
+        <img src="https://res.cloudinary.com/dea4rshjt/image/upload/v1772835864/Screenshot_2026-03-06_at_3.08.07_PM_m74sca.png" alt="Hive Manager" width="100%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/stevie1mat/HiveManager">LangFork - Git for LLMs</a></strong><br>
+      Organize, explore, and branch your AI conversations like never before.
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 4 (Empty Placeholder) -->
+    <td align="center" width="33%">
+       <!-- Add your 4th project here later -->
+    </td>
+    <!-- Project 5 (Empty Placeholder) -->
+    <td align="center" width="33%">
+       <!-- Add your 5th project here later -->
+    </td>
+    <!-- Project 6 (Empty Placeholder) -->
+    <td align="center" width="33%">
+       <!-- Add your 6th project here later -->
+    </td>
+  </tr>
+</table>
+<br>
+
 
 ### Skills & Technologies
 <p align="left">
