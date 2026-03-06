@@ -6,7 +6,7 @@
 <br>
 
 ### About Me
-* 🔭 I’m currently working on **[Fixit AI Agent](https://github.com/stevie1mat/Fixit-AI-Agent/tree/main)**, **[Hive Manager](https://github.com/stevie1mat/HiveManager)**.
+* 🔭 I’m currently working on **[Aether Chronicles: AI Text RPG](https://github.com/stevie1mat/joel-ai)**, **[Fixit AI Agent](https://github.com/stevie1mat/Fixit-AI-Agent/tree/main)**, and **[Hive Manager](https://github.com/stevie1mat/HiveManager)**.
 * 🌱 I’m currently learning **Rust**.
 * 💬 Ask me about **Full Stack Development, AI, Python, React, etc.**
 * 📫 How to reach me: **info@stevenmathew.dev**
