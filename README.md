@@ -55,6 +55,15 @@ I’m a passionate Full Stack and AI Developer currently learning **Rust** while
       Autonomous AI agent for fixing codebase issues.
     </td>
     <td align="center" width="33%">
+        <a href="https://github.com/stevie1mat/Acumenly">
+        <img src="https://github.com/stevie1mat/Acumenly/raw/main/screenshot/banner.png" alt="Acumenly - React Native" width="100%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/stevie1mat/Acumenly">Acumenly - React Native</a></strong><br>
+      Founders' Social networking app
+    </td>
+    <!-- Project 6 (Empty Placeholder) -->
+    <td align="center" width="33%">
         <a href="http://github.com/stevie1mat/Mindflow-Builder">
         <img src="https://github.com/stevie1mat/Mindflow-Builder/raw/main/src/app-preview.png" alt="Mindflow Builder" width="100%" style="border-radius: 8px;">
       </a>
@@ -62,8 +71,6 @@ I’m a passionate Full Stack and AI Developer currently learning **Rust** while
       <strong><a href="http://github.com/stevie1mat/Mindflow-Builder">Mindflow Builder</a></strong><br>
       Turn thoughts into automated workflows
     </td>
-    <!-- Project 6 (Empty Placeholder) -->
-    <td align="center" width="33%">
        <!-- Add your 6th project here later -->
     </td>
   </tr>
