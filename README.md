@@ -27,12 +27,12 @@ I’m a passionate Full Stack and AI Developer currently learning **Rust** while
     </td>
     <!-- Project 2 -->
     <td align="center" width="33%">
-      <a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">
-        <img src="https://github.com/stevie1mat/Fixit-AI-Agent/raw/main/public/homepage.png" alt="Fixit AI Agent" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">Fixit AI Agent</a></strong><br>
-      Autonomous AI agent for fixing codebase issues.
+       <a href="https://github.com/stevie1mat/tactile_app">
+        <img src="https://github.com/stevie1mat/tactile_app/raw/main/screenshots/banner.png" alt="Tactile App" width="100%" style="border-radius: 8px;">
+    </a>
+    <br>
+    <strong><a href="https://github.com/stevie1mat/tactile_app">Tactile - Focused Digital Life</a></strong><br>
+    Introduce intentional friction to break mindless scrolling habits.
     </td>
     <!-- Project 3 -->
     <td align="center" width="33%">
@@ -47,7 +47,12 @@ I’m a passionate Full Stack and AI Developer currently learning **Rust** while
   <tr>
     <!-- Project 4 (Empty Placeholder) -->
     <td align="center" width="33%">
-       <!-- Add your 4th project here later -->
+        <a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">
+        <img src="https://github.com/stevie1mat/Fixit-AI-Agent/raw/main/public/homepage.png" alt="Fixit AI Agent" width="100%" style="border-radius: 8px;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">Fixit AI Agent</a></strong><br>
+      Autonomous AI agent for fixing codebase issues.
     </td>
     <!-- Project 5 (Empty Placeholder) -->
     <td align="center" width="33%">
