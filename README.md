@@ -8,7 +8,7 @@
 ### About Me
 I’m a passionate Full Stack and AI Developer currently learning **Rust** while pushing boundaries in web and mobile applications.
 * 💬 Ask me about **Full Stack Development, AI, Python, React, etc.**
-* 📫 How to reach me: **info@stevenmathew.dev**
+* 📫 How to reach me: **info@stevenmathew.me**
 
 <br>
 
