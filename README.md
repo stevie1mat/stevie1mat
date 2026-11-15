@@ -12,6 +12,12 @@ I’m a passionate Full Stack and AI Developer currently learning **Rust** while
 
 <br>
 
+### Open Source Contribution
+
+Contributed Codex conversation-resume support to [Craft Anything](https://github.com/storytold/craft-anything), allowing Codex builder conversations to continue across project turns. Reviewed, tested, and merged in [PR #1872](https://github.com/storytold/craft-anything/pull/1872).
+
+<br>
+
 ### Currently Featured Projects
 
 <table>
