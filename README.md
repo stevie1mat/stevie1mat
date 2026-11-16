@@ -201,6 +201,27 @@ A few more stops in the repository history:
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+
+  <br><strong>Desktop & Systems:</strong><br>
+  <img src="https://img.shields.io/badge/Swift%20%2F%20AppKit-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="AppKit">
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge" alt="WinForms">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/TCP%20sockets-173536?style=for-the-badge" alt="TCP sockets">
+  <img src="https://img.shields.io/badge/Device%20discovery-173536?style=for-the-badge" alt="Device discovery">
+  <img src="https://img.shields.io/badge/Clipboard%20integration-173536?style=for-the-badge" alt="Clipboard integration">
+
+  <br><strong>Browser & Graphics:</strong><br>
+  <img src="https://img.shields.io/badge/Chrome%20Extensions%20%2F%20Manifest%20V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions / Manifest V3">
+  <img src="https://img.shields.io/badge/Tesseract.js-3776AB?style=for-the-badge" alt="Tesseract.js">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL">
+
+  <br><strong>Backend & Tooling:</strong><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
 <br>
