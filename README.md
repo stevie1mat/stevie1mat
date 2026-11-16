@@ -18,71 +18,131 @@ Contributed Codex conversation-resume support to [Craft Anything](https://github
 
 <br>
 
-### Currently Featured Projects
+### ~/lab / selected builds
+
+```console
+steven@workbench:~$ ls ./projects --selected
+
+native/       Seamlet          MacMouseDroid
+browser/      Kindle Clip      Elsewhere
+automation/   Mindflow Builder
+mobile/       Tactile
+```
+
+Things I build when a browser tab, an operating system, or a repetitive task gets in the way.
 
 <table>
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/stevie1mat/joel-ai">
-        <img src="https://raw.githubusercontent.com/stevie1mat/joel-ai/main/screenshots/git-screenshot.png" alt="Aether Chronicles" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="https://github.com/stevie1mat/joel-ai">Aether Chronicles: AI Text RPG</a></strong><br>
-      An infinite graphical RPG powered by Mistral AI and Bytez.
-    </td>
-    <!-- Project 2 -->
-    <td align="center" width="33%">
-       <a href="https://github.com/stevie1mat/tactile_app">
-        <img src="https://github.com/stevie1mat/tactile_app/raw/main/screenshots/banner.png" alt="Tactile App" width="100%" style="border-radius: 8px;">
-    </a>
-    <br>
-    <strong><a href="https://github.com/stevie1mat/tactile_app">Tactile - Focused Digital Life</a></strong><br>
-    Introduce intentional friction to break mindless scrolling habits.
-    </td>
-    <!-- Project 3 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/stevie1mat/HiveManager">
-        <img src="https://res.cloudinary.com/dea4rshjt/image/upload/v1772835864/Screenshot_2026-03-06_at_3.08.07_PM_m74sca.png" alt="Hive Manager" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="https://github.com/stevie1mat/HiveManager">LangFork - Git for LLMs</a></strong><br>
-      Organize, explore, and branch your AI conversations like never before.
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 4 (Empty Placeholder) -->
-    <td align="center" width="33%">
-        <a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">
-        <img src="https://github.com/stevie1mat/Fixit-AI-Agent/raw/main/public/homepage.png" alt="Fixit AI Agent" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="https://github.com/stevie1mat/Fixit-AI-Agent/tree/main">Fixit AI Agent</a></strong><br>
-      Autonomous AI agent for fixing codebase issues.
-    </td>
-    <td align="center" width="33%">
-        <a href="https://github.com/stevie1mat/Acumenly">
-        <img src="https://github.com/stevie1mat/Acumenly/raw/main/screenshot/banner.png" alt="Acumenly - React Native" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="https://github.com/stevie1mat/Acumenly">Acumenly - React Native</a></strong><br>
-      Founders' Social networking app
-    </td>
-    <!-- Project 6 (Empty Placeholder) -->
-    <td align="center" width="33%">
-        <a href="http://github.com/stevie1mat/Mindflow-Builder">
-        <img src="https://github.com/stevie1mat/Mindflow-Builder/raw/main/src/app-preview.png" alt="Mindflow Builder" width="100%" style="border-radius: 8px;">
-      </a>
-      <br>
-      <strong><a href="http://github.com/stevie1mat/Mindflow-Builder">Mindflow Builder</a></strong><br>
-      Turn thoughts into automated workflows
-    </td>
-       <!-- Add your 6th project here later -->
-    </td>
-  </tr>
-</table>
-<br>
+<tr>
+<td valign="top" width="50%">
 
+#### 01 / [Seamlet](https://github.com/stevie1mat/Seamlet)
+
+**One mouse. Two operating systems.**
+
+Move from a Windows screen into a Mac over the local network, with bidirectional text and file clipboard transfers.
+
+<code>Swift / AppKit</code> <code>C# / WinForms</code> <code>.NET</code>
+
+<sub>Under the hood: device discovery, encrypted protocol interoperability, replay rejection, and heartbeat failover.</sub>
+
+[Source →](https://github.com/stevie1mat/Seamlet) · [Architecture →](https://github.com/stevie1mat/Seamlet/blob/main/docs/ARCHITECTURE.md)
+
+</td>
+<td valign="top" width="50%">
+
+#### 02 / [MacMouseDroid](https://github.com/stevie1mat/MacMouseDroid)
+
+**The Mac mouse gets a second screen: Android.**
+
+Control a pointer on the phone itself. Tap, swipe, go Back or Home, and release the Mac cursor with Escape.
+
+<code>Swift / AppKit</code> <code>Java / Android</code> <code>TCP</code>
+
+<sub>Under the hood: Accessibility gestures, a pointer overlay, and session pairing. Prototype for trusted LANs; traffic is unencrypted.</sub>
+
+[Source →](https://github.com/stevie1mat/MacMouseDroid) · [Download →](https://github.com/stevie1mat/MacMouseDroid/releases)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 03 / [Kindle Clip](https://github.com/stevie1mat/kindle-clip)
+
+**Pixels in. Editable passages out.**
+
+Draw around a passage in Kindle Cloud Reader, recognize it locally, review the text, and copy it into your notes.
+
+<code>JavaScript</code> <code>Manifest V3</code> <code>Tesseract.js / WASM</code>
+
+<sub>Under the hood: region capture, bundled English OCR, and an editable review panel. No application backend or remote OCR service.</sub>
+
+[Source →](https://github.com/stevie1mat/kindle-clip) · [Download →](https://github.com/stevie1mat/kindle-clip/releases)
+
+</td>
+<td valign="top" width="50%">
+
+#### 04 / [Elsewhere](https://github.com/stevie1mat/elsewhere)
+
+**A small world with a lot going on.**
+
+Explore a coastal 3D neighborhood on foot or by bicycle, follow a delivery quest, or ride an endless elevated obstacle course.
+
+<code>JavaScript</code> <code>Three.js</code> <code>Node.js / Vite</code>
+
+<sub>Under the hood: momentum, collision substeps, instanced geometry, pooled obstacles, and persistent local progress.</sub>
+
+[Source →](https://github.com/stevie1mat/elsewhere) · [World notes →](https://github.com/stevie1mat/elsewhere#whats-built)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### 05 / [Mindflow Builder](https://github.com/stevie1mat/Mindflow-Builder)
+
+**Natural language → nodes → DSL.**
+
+Turn a workflow idea into a visual graph, inspect node configuration, and move between the graph and a workflow DSL.
+
+<code>Vue 3</code> <code>TypeScript / Pinia</code> <code>Mistral AI</code>
+
+<sub>Under the hood: typed node definitions, workflow validation, JSON import/export, and a DSL conversion layer.</sub>
+
+[Source →](https://github.com/stevie1mat/Mindflow-Builder) · [Backend →](https://github.com/stevie1mat/Mindflow-Backend)
+
+</td>
+<td valign="top" width="50%">
+
+#### 06 / [Tactile](https://github.com/stevie1mat/tactile_app)
+
+**Make opening an app a deliberate action.**
+
+A focus app built around a haptic dial: introduce a small physical-feeling pause before entering distracting apps.
+
+<code>Flutter / Dart</code> <code>GetX</code> <code>Supabase</code>
+
+<sub>Under the hood: a custom dial interaction, vibration controls, app-blocking overlays, and focus sessions.</sub>
+
+[Source →](https://github.com/stevie1mat/tactile_app) · [Screenshots →](https://github.com/stevie1mat/tactile_app#screenshots)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><code>find ./archive -type project</code></summary>
+
+A few more stops in the repository history:
+
+- [Social Network UI](https://github.com/stevie1mat/Social-Network-UI-Made-In-Flutter) — Flutter screens for Android and iOS.
+- [Finance App UI](https://github.com/stevie1mat/Finance-App-UI-Template-Made-In-Flutter) — a cross-platform finance interface.
+- [ChatVault](https://github.com/stevie1mat/ChatVault) — explore WhatsApp exports with search, filters, and conversation analytics.
+- [HiveManager](https://github.com/stevie1mat/HiveManager) — React Native tools for hives, inspections, and honey harvest records.
+
+</details>
+
+<br>
 
 ### Skills & Technologies
 <p align="left">
